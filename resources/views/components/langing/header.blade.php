@@ -1,5 +1,5 @@
 <header>
-    <h1>Shorup POS Solution</h1>
+    <h1>Shorup POS Application</h1>
     <h4>Simplify Your Business Transactions with Our Point of Sale Application</h4>
     <div class="auth-buttons">
         <div class="align-items-center col">

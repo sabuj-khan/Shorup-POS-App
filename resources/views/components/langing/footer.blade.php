@@ -1,3 +1,3 @@
 <footer>
-    &copy; 2024 Rupantor POS Solution. All rights reserved.
+    &copy; 2024 Shorup POS Application. All rights reserved.
 </footer>
